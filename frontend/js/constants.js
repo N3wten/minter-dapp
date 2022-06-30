@@ -1,7 +1,7 @@
 const contractAddress = "0x0A8831F6a739caF057b9B06A9541A3a9da86c9Ac"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CryptoNewt NFT Project!!";
+const welcome_h1 = "Welcome to the CryptoNewtClub!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Crypto Newt Club NFT Project';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
@@ -13,7 +13,7 @@ const p_presale_coming_soon = "We are working hard to launch the NFT Collection.
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
+const p_public_mint = "Get your Crypto Newt!";
 const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special NFT";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
