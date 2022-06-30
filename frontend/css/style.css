@@ -9,10 +9,10 @@
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
   --bg-color: #1cbe3f;
-  --bg-color-transparent: #1bac74b7;
-  --font-color: #378fe0;
+  --bg-color-transparent: #b423d1b7;
+  --font-color: #e0374e;
   --btn-bg-color: #5686a1;
-  --accent-color: #1ae274;
+  --accent-color: #bde21a;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
 }
